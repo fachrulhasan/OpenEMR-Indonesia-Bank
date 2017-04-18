@@ -6,3 +6,6 @@ Ini adalah OpenEMR yang telah dimodifikasi agar pembayaran Bank Indonesia dapat 
 4. Letakkan file berekstensi js ke folder OpenEMR >> interface >> tabs >> js
 
 Done, langkah terakhir Anda adalah memberi link yang mengarah pada file php tersebut :)
+
+# Download XAMPP + OpenEMR Indonesia Bank
+https://1drv.ms/u/s!ArFSaZjuQIgglHeIPA2Uxm_XFH0l
